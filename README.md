@@ -2,7 +2,7 @@
 [![License](https://img.shields.io/github/license/RoManager-org/romanager-oss)](https://github.com/RoManager-org/romanager-oss/blob/main/LICENSE)
 [![Discord](https://img.shields.io/discord/798735708755460118?color=5865F2&label=discord&logo=discord&logoColor=white)](https://discord.gg/WRTsHuH9qP)
 
-RoManager is a free, feature-rich Discord-to-Roblox bot. This repository (https://github.com/RoManager-org/romanager-oss) is the self-hosted version.
+RoManager is a free, feature-rich Discord-to-Roblox bot. This repository (https://github.com/Detboyo/romanager-oss) is the self-hosted version.
 
 ## Release Schedule
 The self-hosted version will catch up with the `main` branch of the upstream bot every month. We recommend you update the bot (`git pull`) every now and then.
